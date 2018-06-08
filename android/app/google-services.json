@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "416276906744",
+    "firebase_url": "https://snowreport-c1f1e.firebaseio.com",
+    "project_id": "snowreport-c1f1e",
+    "storage_bucket": "snowreport-c1f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416276906744:android:49fe489faca05431",
+        "android_client_info": {
+          "package_name": "com.yourcompany.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416276906744-7k6kjdkuh73gsrosqq1h0i5gnnk68ttn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "416276906744-7k6kjdkuh73gsrosqq1h0i5gnnk68ttn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-LdgrrWlwHKJbi-M_bWLsJRhH4-5yaUg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
